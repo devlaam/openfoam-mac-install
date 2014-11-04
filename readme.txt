@@ -12,9 +12,10 @@ The scripts are based upon:
   http://www.cfd-online.com/Forums/openfoam-installation-windows-mac/130113-compile-2-3-mac-os-x-patch.html
  
 After downloading the scripts:
-  git clone git://github.com/devlaam/OpenFOAM/installHelper.git
+   git clone git://github.com/devlaam/openfoam-mac-install.git
 
 After that, you can type:
+  cd openfoam-mac-install
   ./prepare-openfoam-2.3.x 
   ./install-openfoam-2.3.x
 Without arguments they present the latest help on their usage.
